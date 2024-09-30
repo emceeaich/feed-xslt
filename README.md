@@ -13,4 +13,6 @@ If you're `mae-the-space-cat.neocities.org` and your feed is at `mae-the-space-c
 
 RSS and combined versions of this are forthcoming.
 
-![/i-was-on-cohost.gif](animated gif of eggbug with text 'i was on cohost')
+[![animated gif of eggbug with text 'i was on cohost'](/i-was-on-cohost.gif)](https://cohost.org/emmah)
+
+[![88x31px link to maintainer's website](https://emmas.site/public/images/88x31.png)](https://emmas.site)
